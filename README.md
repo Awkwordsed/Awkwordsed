@@ -9,3 +9,4 @@ I dont have much to add here
 <a href="https://instagram.com/valerie.tar.gz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![4d1678e171347c4402c231dad0394f0f](https://user-images.githubusercontent.com/119004237/210283277-6172937e-1225-44a5-9399-1a875bdf0ae5.gif)

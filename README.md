@@ -15,6 +15,10 @@ I dont have much to add here
 </div>
 
 <div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Uartitic.png" alt="TryHackMe">
+</div>
+
+<div align="center">
 <a href="https://archlinux.org/download/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=000000&style=for-the-badge"></a>
 <a href="https://instagram.com/valerie.tar.gz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">

@@ -15,9 +15,11 @@ I dont have much to add here
 </div>
 
 <div align="center">
+  
 <a href="https://archlinux.org/download/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=000000&style=for-the-badge"></a>
 <a href="https://instagram.com/valerie.tar.gz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://V2Valerie.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://V2Valerie.github.io/"><img src="https://user-images.githubusercontent.com/119004237/230368551-9af96cea-1666-4ca6-8939-279dae8fa406.png"></a>
+  
 <img src="https://user-images.githubusercontent.com/119004237/210283277-6172937e-1225-44a5-9399-1a875bdf0ae5.gif">
 </div>
 

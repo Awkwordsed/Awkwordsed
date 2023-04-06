@@ -20,6 +20,6 @@ I dont have much to add here
 <a href="https://instagram.com/valerie.tar.gz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://V2Valerie.github.io/"><img src="https://user-images.githubusercontent.com/119004237/230368551-9af96cea-1666-4ca6-8939-279dae8fa406.png"></a>
   
-<img src="https://user-images.githubusercontent.com/119004237/210283277-6172937e-1225-44a5-9399-1a875bdf0ae5.gif">
+<img src="https://user-images.githubusercontent.com/119004237/230371176-0cf730c6-a65d-441f-8c62-c848b9282726.gif">
 </div>
 

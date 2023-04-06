@@ -5,7 +5,7 @@
 - ✖️ I’m interested in Linux mostly arch linux and cli
 </div>
 <div align="center">
-- 🕸 I’m currently learning golang and python
+- 🕸 I’m currently learning C and C++
 </div>
 <div align="center">
 - 🔗 How to reach me , @valerie.tar.gz on Instagram

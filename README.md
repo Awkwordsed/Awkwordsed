@@ -11,4 +11,6 @@ I dont have much to add here
   
 ![dedsec3](https://github.com/V2Valerie/V2Valerie/assets/119004237/e08958c2-c63f-4e79-92d1-2b84f8eb7878)
 
-
+<h align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F700&width=140&lines=Join+DedSec" alt="Typing SVG" />
+</h>

@@ -1,16 +1,24 @@
-<div align="center">
-🤘 Hi, I’m @V2Valerie
-I dont have much to add here
-</div>
 
-<div align="center">
-  
-<a href="https://archlinux.org/download/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=000000&style=for-the-badge"></a>
-<a href="https://instagram.com/valerie.tar.gz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<!--<a href="https://V2Valerie.github.io/"><img src="https://user-images.githubusercontent.com/119004237/230373002-790d290d-7540-44ae-b7f3-9bcf2e71b84e.png"></a>-->
-  
-![dedsec3](https://github.com/V2Valerie/V2Valerie/assets/119004237/e08958c2-c63f-4e79-92d1-2b84f8eb7878)
 
-<h align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F700&width=140&lines=Join+DedSec" alt="Typing SVG" />
-</h>
+<pre align="center">
+                                                                                                           
+  `8.`888b           ,8' .8.          8 8888         8 8888888888   8 888888888o.    8 8888 8 8888888888   
+   `8.`888b         ,8' .888.         8 8888         8 8888         8 8888    `88.   8 8888 8 8888         
+    `8.`888b       ,8' :88888.        8 8888         8 8888         8 8888     `88   8 8888 8 8888         
+     `8.`888b     ,8' . `88888.       8 8888         8 8888         8 8888     ,88   8 8888 8 8888         
+      `8.`888b   ,8' .8. `88888.      8 8888         8 888888888888 8 8888.   ,88'   8 8888 8 888888888888 
+       `8.`888b ,8' .8`8. `88888.     8 8888         8 8888         8 888888888P'    8 8888 8 8888         
+        `8.`888b8' .8' `8. `88888.    8 8888         8 8888         8 8888`8b        8 8888 8 8888         
+         `8.`888' .8'   `8. `88888.   8 8888         8 8888         8 8888 `8b.      8 8888 8 8888         
+          `8.`8' .888888888. `88888.  8 8888         8 8888         8 8888   `8b.    8 8888 8 8888         
+           `8.` .8'       `8. `88888. 8 888888888888 8 888888888888 8 8888     `88.  8 8888 8 888888888888 
+
+
+</pre>
+
+<!-- Streak stats -->
+<h3 align="center">
+    <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ || ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
+    <img align="center" src="https://streak-stats.demolab.com?user=V2Valerie&theme=dark-smoky&hide_border=true&border_radius=0&card_width=800" />
+    <p>
+</h3>

@@ -1,24 +1,12 @@
+<h1 align="center">V2Valerie</h1>
 
-
-<pre align="center">
-                                                                                                           
-    `8.`888b           ,8' .8.          8 8888         8 8888888888   8 888888888o.    8 8888 8 8888888888   
-     `8.`888b         ,8' .888.         8 8888         8 8888         8 8888    `88.   8 8888 8 8888         
-      `8.`888b       ,8' :88888.        8 8888         8 8888         8 8888     `88   8 8888 8 8888         
-       `8.`888b     ,8' . `88888.       8 8888         8 8888         8 8888     ,88   8 8888 8 8888         
-        `8.`888b   ,8' .8. `88888.      8 8888         8 888888888888 8 8888.   ,88'   8 8888 8 888888888888 
-         `8.`888b ,8' .8`8. `88888.     8 8888         8 8888         8 888888888P'    8 8888 8 8888         
-          `8.`888b8' .8' `8. `88888.    8 8888         8 8888         8 8888`8b        8 8888 8 8888         
-           `8.`888' .8'   `8. `88888.   8 8888         8 8888         8 8888 `8b.      8 8888 8 8888         
-            `8.`8' .888888888. `88888.  8 8888         8 8888         8 8888   `8b.    8 8888 8 8888         
-             `8.` .8'       `8. `88888. 8 888888888888 8 888888888888 8 8888     `88.  8 8888 8 888888888888 
-  
-
-</pre>
+<h2 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=900&lines=Success+is+not+final%2C+failure+is+not+fatal%3A+It+is+the+courage+to+continue+that+counts" alt="Typing SVG" /></a>
+</h2>
 
 <!-- Streak stats -->
 <h3 align="center">
     <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ || ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
-    <img align="center" src="https://streak-stats.demolab.com?user=V2Valerie&theme=dark-smoky&hide_border=true&border_radius=0&card_width=800" />
+    <img align="center" src="https://streak-stats.demolab.com?user=V2Valerie&theme=transparent&hide_border=true&mode=weekly&card_width=800" />
     <p>
 </h3>

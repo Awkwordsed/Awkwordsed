@@ -10,10 +10,3 @@
     <img align="center" src="https://streak-stats.demolab.com?user=V2Valerie&theme=transparent&hide_border=true&mode=weekly&card_width=800" />
     <p>
 </h3>
-
-<h2 align="center">
-    <p>Stealth-Sentry-Crew</p>
-    <a href="https://wigle.net">
-    <img border="0" src="https://wigle.net/bi/SvfcMkNO4ZWA9rEqpNXgdA.png">
-    </a> 
-</h2>
